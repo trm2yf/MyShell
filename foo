@@ -1,0 +1,12 @@
+.
+..
+foo
+.#functions.cpp
+#functions.cpp#
+functions.cpp
+functions.cpp~
+general.h
+.git
+main.cpp
+Makefile
+MyShell
